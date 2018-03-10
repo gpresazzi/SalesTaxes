@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b602899-f20f-43a9-8520-15754f8c2f3e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/model/Product/BookTest.java" afterPath="$PROJECT_DIR$/src/test/java/model/Product/BookTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/model/Product/GenericProductTest.java" afterPath="$PROJECT_DIR$/src/test/java/model/Product/GenericProductTest.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/model/Product/MedicalProductTest.java" afterPath="$PROJECT_DIR$/src/test/java/model/Product/MedicalProductTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/model/Receipt/ReceiptTest.java" afterPath="$PROJECT_DIR$/src/test/java/model/Receipt/ReceiptTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -29,10 +24,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReceiptTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReceiptTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/model/Receipt/ReceiptTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-815">
+            <state relative-caret-position="-713">
               <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -53,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MedicalProductTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MedicalProductTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/model/Product/MedicalProductTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="42" />
+            <state relative-caret-position="222">
+              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -430,11 +425,11 @@
         <option value="$PROJECT_DIR$/src/main/java/model/Receipt/Receipt.java" />
         <option value="$PROJECT_DIR$/src/main/java/model/Receipt/ReceiptTest.java" />
         <option value="$PROJECT_DIR$/.travis.yml" />
-        <option value="$PROJECT_DIR$/src/test/java/model/Product/MedicalProductTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/model/Product/GenericProductTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/model/Product/BookTest.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/model/Receipt/ReceiptTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/model/Product/MedicalProductTest.java" />
       </list>
     </option>
   </component>
@@ -909,16 +904,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/model/Product/MedicalProductTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/model/Product/BookTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
@@ -949,8 +934,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/model/Receipt/ReceiptTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-815">
+        <state relative-caret-position="-713">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/model/Product/MedicalProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

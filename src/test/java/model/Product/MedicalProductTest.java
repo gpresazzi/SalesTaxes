@@ -12,7 +12,7 @@ public abstract class MedicalProductTest {
         Product p1 = new MedicalProduct(12.9f, "Pill");
 
         assertEquals(ProductType.MedicalProduct, p1.getProductType());
-        assertEquals("Pills", p1.getName());
+        assertEquals("Pill", p1.getName());
         assertEquals(12.9f, p1.getPrice(),  0.001);
     }
 }
