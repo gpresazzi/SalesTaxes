@@ -1,7 +1,7 @@
-package com.salestaxes.model.Receipt;
+package model.Receipt;
 
-import com.salestaxes.model.Product.Product;
-import com.salestaxes.model.Product.ProductType;
+import model.Product.Product;
+import model.Product.ProductType;
 
 import java.util.ArrayList;
 import java.util.List;

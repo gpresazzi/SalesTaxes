@@ -1,4 +1,4 @@
-package com.salestaxes.model.Product;
+package model.Product;
 
 public abstract class Product {
     private float price = 0;

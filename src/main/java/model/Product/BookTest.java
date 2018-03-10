@@ -1,8 +1,9 @@
-package com.salestaxes.model.Product;
+package model.Product;
+
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class BookTest {
     @Test

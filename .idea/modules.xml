@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SalesTaxes.iml" filepath="$PROJECT_DIR$/SalesTaxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.salestaxes.iml" filepath="$PROJECT_DIR$/.idea/modules/com.salestaxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.salestaxes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.salestaxes_main.iml" group="com.salestaxes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.salestaxes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.salestaxes_test.iml" group="com.salestaxes" />
     </modules>
   </component>
 </project>

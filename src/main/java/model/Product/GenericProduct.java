@@ -1,4 +1,4 @@
-package com.salestaxes.model.Product;
+package model.Product;
 
 public class GenericProduct extends Product {
     public GenericProduct(float price, String Name)

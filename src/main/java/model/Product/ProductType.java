@@ -1,4 +1,4 @@
-package com.salestaxes.model.Product;
+package model.Product;
 
 public enum ProductType {
     Food,

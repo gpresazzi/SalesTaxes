@@ -1,12 +1,10 @@
-package com.salestaxes;
-
-import com.salestaxes.model.Product.Book;
-import com.salestaxes.model.Product.GenericProduct;
-import com.salestaxes.model.Product.MedicalProduct;
-import com.salestaxes.model.Product.Product;
-import com.salestaxes.model.Receipt.ExpenseType;
-import com.salestaxes.model.Receipt.Food;
-import com.salestaxes.model.Receipt.Receipt;
+import model.Product.Book;
+import model.Product.GenericProduct;
+import model.Product.MedicalProduct;
+import model.Product.Product;
+import model.Receipt.ExpenseType;
+import model.Receipt.Food;
+import model.Receipt.Receipt;
 
 public class Main {
 

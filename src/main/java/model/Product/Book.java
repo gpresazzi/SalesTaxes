@@ -1,4 +1,4 @@
-package com.salestaxes.model.Product;
+package model.Product;
 
 public class Book extends Product {
     public Book(float price, String Name)

@@ -1,12 +1,10 @@
-package com.salestaxes.model.Receipt;
+package model.Receipt;
 
-import com.salestaxes.model.Product.Book;
-import com.salestaxes.model.Product.GenericProduct;
-import com.salestaxes.model.Product.MedicalProduct;
-import com.salestaxes.model.Product.Product;
+import model.Product.Book;
+import model.Product.GenericProduct;
+import model.Product.MedicalProduct;
+import model.Product.Product;
 import org.junit.jupiter.api.Test;
-
-import java.io.Console;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

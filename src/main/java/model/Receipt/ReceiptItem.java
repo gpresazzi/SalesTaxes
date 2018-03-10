@@ -1,6 +1,7 @@
-package com.salestaxes.model.Receipt;
+package model.Receipt;
 
-import com.salestaxes.model.Product.Product;
+
+import model.Product.Product;
 
 public class ReceiptItem {
     private Product product = null;

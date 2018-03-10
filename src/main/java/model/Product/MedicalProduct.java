@@ -1,4 +1,4 @@
-package com.salestaxes.model.Product;
+package model.Product;
 
 public class MedicalProduct extends Product {
     public MedicalProduct(float price, String Name)

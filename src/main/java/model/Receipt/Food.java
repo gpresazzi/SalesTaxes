@@ -1,7 +1,8 @@
-package com.salestaxes.model.Receipt;
+package model.Receipt;
 
-import com.salestaxes.model.Product.Product;
-import com.salestaxes.model.Product.ProductType;
+
+import model.Product.Product;
+import model.Product.ProductType;
 
 public class Food extends Product {
     public Food(float price, String Name)

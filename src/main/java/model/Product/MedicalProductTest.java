@@ -1,4 +1,4 @@
-package com.salestaxes.model.Product;
+package model.Product;
 
 import org.junit.jupiter.api.Test;
 
