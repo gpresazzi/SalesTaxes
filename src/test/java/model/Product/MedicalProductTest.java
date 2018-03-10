@@ -1,10 +1,10 @@
 package model.Product;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.assertEquals;
 
-class MedicalProductTest {
+public abstract class MedicalProductTest {
     @Test
     void MedicalProductConstructor() {
         Product p1 = new MedicalProduct(12.9f, "Pill");

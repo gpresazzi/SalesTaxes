@@ -1,13 +1,14 @@
 package model.Product;
 
-import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import org.junit.Test;
 
-class GenericProductTest {
+import static org.junit.Assert.assertEquals;
+
+public abstract class GenericProductTest {
     @Test
     void GenericProductConstructor() {
-        Product p1 = new GenericProduct(12.49f, "Chocolate");
+        GenericProduct p1 = new GenericProduct(12.49f, "Chocolate");
 
         assertEquals(ProductType.Other, p1.getProductType());
         assertEquals("Chocolate", p1.getName());

@@ -4,15 +4,11 @@ import model.Product.Book;
 import model.Product.GenericProduct;
 import model.Product.MedicalProduct;
 import model.Product.Product;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.Assert.assertEquals;
 
-class ReceiptTest {
-
-    @org.junit.jupiter.api.Test
-    void addItem() {
-    }
+public abstract class ReceiptTest {
 
     @Test
     void Test1() {
