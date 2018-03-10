@@ -2,9 +2,11 @@ package model.Product;
 
 
 import org.junit.Test;
+import org.junit.experimental.categories.Categories;
 
 import static org.junit.Assert.assertEquals;
 
+@Categories.IncludeCategory(Product.class)
 public abstract class GenericProductTest {
     @Test
     void GenericProductConstructor() {

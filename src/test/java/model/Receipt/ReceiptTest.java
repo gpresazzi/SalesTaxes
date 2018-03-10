@@ -5,9 +5,11 @@ import model.Product.GenericProduct;
 import model.Product.MedicalProduct;
 import model.Product.Product;
 import org.junit.Test;
+import org.junit.experimental.categories.Categories;
 
 import static org.junit.Assert.assertEquals;
 
+@Categories.IncludeCategory(Receipt.class)
 public abstract class ReceiptTest {
 
     @Test
